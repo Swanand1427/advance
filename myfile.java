@@ -20,7 +20,7 @@ public class myfile {
     }
 
     if (!flag)
-      System.out.println(num + " is a prime number.");
+      System.out.println(num + " is a even number.");
     else
       System.out.println(num + " is nyeshhhh.");
   }
